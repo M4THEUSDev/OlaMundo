@@ -1,9 +1,8 @@
 <h1> Olá Mundo! </h1>
 
-<p>
-Este projeto tem como objetivo apresentar minha trajetória profissional e acadêmica, oferecendo uma visão mais detalhada sobre meus estudos e minha carreira. É uma oportunidade para você conhecer melhor minha evolução e os interesses que guiam meu desenvolvimento profissional.
+<p> O projeto tem como objetivo apresentar minha trajetória profissional e acadêmica, oferecendo uma visão mais detalhada sobre meus estudos e minha carreira. É uma oportunidade para você conhecer melhor minha evolução e os interesses que guiam meu desenvolvimento profissional.
 
-Este projeto foi desenvolvido com a biblioteca react-router-dom, aproveitando seus principais recursos, como rotas aninhadas e dinâmicas. Utilizou-se também hooks como useLocation, useParams, useNavigate e Outlet, além de componentes como Link. Além disso, o projeto faz uso de funções JavaScript como map, find, sort, filter e slice para manipulação e organização de dados.</p>
+Foi desenvolvido com a biblioteca react-router-dom, aproveitando seus principais recursos, como rotas aninhadas e dinâmicas. Utilizou-se também hooks como useLocation, useParams, useNavigate e Outlet, além de componentes como Link. Além disso, o projeto faz uso de funções JavaScript como map, find, sort, filter e slice para manipulação e organização de dados.</p>
 
 ## :dizzy: Tecnologias utilizadas
 
@@ -18,15 +17,15 @@ Este projeto foi desenvolvido com a biblioteca react-router-dom, aproveitando se
 
 ### Interface do Usuário
 
-<img src="SpaceApp.png"  alt="Imagem do SpaceApp." width="1300">
+<img src="OlaMundo.png"  alt="Imagem do Olá Mundo." width="1300">
 
 ## :hammer: Caracteristicas
 
 - `Página Inicial:` Exibição de Galáxias: Apresenta uma coleção de imagens de galáxias. 
 
-- `Modal de Zoom:` Habilita a visualização ampliada das imagens em um modal, utilizando recursos do JavaScript.
+- `Sobre Mim:` Habilita a visualização ampliada das imagens em um modal, utilizando recursos do JavaScript.
 
-- `Favoritar Galáxias:` Oferece aos usuários a opção de selecionar suas galáxias favoritas.
+- `Página de Post:` Oferece aos usuários Post's sobre tecnologias e assuntos educacionais.
 
 ## :mag: Demonstração
 
