@@ -23,7 +23,7 @@ Foi desenvolvido com a biblioteca react-router-dom, aproveitando seus principais
 
 - `Página Inicial:` Exibição de Galáxias: Apresenta uma coleção de imagens de galáxias. 
 
-- `Sobre Mim:` Habilita a visualização ampliada das imagens em um modal, utilizando recursos do JavaScript.
+- `Sobre Mim:` O projeto inclui informações sobre mim, como formações acadêmicas, experiências e uma descrição detalhada sobre meus estudos e minha carreira.
 
 - `Página de Post:` Oferece aos usuários Post's sobre tecnologias e assuntos educacionais.
 
@@ -38,4 +38,4 @@ Para uma experiência completa e visual do projeto em funcionamento, você pode 
 
 ## :student: Autor
 
-Este repositório contém o projeto SpaceApp, desenvolvido no curso proporcionado pela Oracle em parceria com a Alura.
+Este repositório contém o projeto Olá Mundo, desenvolvido no curso proporcionado pela Oracle em parceria com a Alura.
