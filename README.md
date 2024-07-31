@@ -21,7 +21,7 @@ Foi desenvolvido com a biblioteca react-router-dom, aproveitando seus principais
 
 ## :hammer: Caracteristicas
 
-- `Página Inicial:` Exibição de Galáxias: Apresenta uma coleção de imagens de galáxias. 
+- `Página Inicial:` Exibição de cards com conteúdos educacionais. 
 
 - `Sobre Mim:` O projeto inclui informações sobre mim, como formações acadêmicas, experiências e uma descrição detalhada sobre meus estudos e minha carreira.
 
